@@ -18,6 +18,7 @@ class CounterApplet extends Applet.TextApplet {
             this.currentValue += this.incrementAmount;
             this.updateDisplay();
         };
+      
     }
     
     updateDisplay() {
@@ -28,6 +29,7 @@ class CounterApplet extends Applet.TextApplet {
         this.currentValue = this.defaultValue;
         this.updateDisplay();
     }
+    
 }
 
 function main(metadata, orientation, panel_height, instance_id) {

@@ -1,0 +1,6 @@
+{
+    "uuid": "hello-world@yourname",
+    "name": "Hello World",
+    "description": "A simple Hello World applet",
+    "icon": "utilities-terminal"
+}

@@ -1,0 +1,7 @@
+{
+    "uuid": "counter@mehrdadlinux",
+    "name": "Counter",
+    "description": "A simple counter applet with configurable increment",
+    "version": "1.0",
+    "cinnamon-version": ["3.0", "4.0", "5.0"]
+}
